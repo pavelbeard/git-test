@@ -12,5 +12,8 @@ namespace git_test_app.test_folder
 
         public void HelloWorld() => Console.WriteLine("HelloWorld!");
         public void HelloMoscow() => Console.WriteLine("HelloMoscow!");
+
+        public void Thanksgiving(string give) { Console.WriteLine(give); }
+        public void Thanksgiving(int give) { Console.WriteLine(give); }
     }
 }
