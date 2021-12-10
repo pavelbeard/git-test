@@ -11,5 +11,6 @@ namespace git_test_app.test_folder
         public string test = "2";
 
         public void HelloWorld() => Console.WriteLine("HelloWorld!");
+        public void HelloMoscow() => Console.WriteLine("HelloMoscow!");
     }
 }

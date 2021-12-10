@@ -1,0 +1,23 @@
+[33mcommit 4b35dcc590534c0595552da88bb9555a223de5bd[m[33m ([m[1;36mHEAD -> [m[1;32mnewbranch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pavelbeard <weewlol1337@gmail.com>
+Date:   Fri Dec 10 15:56:03 2021 +0300
+
+    Update TestClass: added HelloWorld function()
+
+[33mcommit 7bc59dbba28dc8af8e208162ea2860d84bb3e13c[m
+Author: pavelbeard <weewlol1337@gmail.com>
+Date:   Fri Dec 10 15:54:38 2021 +0300
+
+    added .gitignore file to project
+
+[33mcommit 8a8030ba9fad94aa88ea03d59ab08e30240cfa19[m
+Author: pavelbeard <weewlol1337@gmail.com>
+Date:   Fri Dec 10 13:58:48 2021 +0300
+
+    Updated file 'TestClass.cs'
+
+[33mcommit 6b4bc702fef8639f5b6a7626446c238e67f31b97[m
+Author: pavelbeard <weewlol1337@gmail.com>
+Date:   Fri Dec 10 13:44:32 2021 +0300
+
+    FIXED!
